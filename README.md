@@ -2,7 +2,7 @@
 
 HydroMind is a smart IoT-based hydroponics management system developed using NodeMCU ESP8266 and Arduino IDE. The system enables real-time environmental monitoring, automation, and remote control via a web-based interface.
 
----
+
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ It automates:
 - Lighting System
 - Servo-controlled valve
 
----
+
 
 ## 🛠 Hardware Components
 
@@ -35,7 +35,7 @@ It automates:
 - Solar Panel
 - Power Supply Module
 
----
+
 
 ## 💻 Software & Libraries Used
 
@@ -55,7 +55,7 @@ The system uses ESP8266’s built-in Wi-Fi to host a web server. Users can acces
 
 Sensors collect real-time data → ESP8266 processes it → Displays on web page → Controls devices via HTTP requests.
 
----
+
 
 ## ⚙ Functional Features
 
@@ -65,16 +65,12 @@ Sensors collect real-time data → ESP8266 processes it → Displays on web page
 - Solar-powered energy integration
 - Remote access via IP address
 
----
 
 ## 📊 Results
 
-- Sensor Accuracy: 98%
 - Temperature Precision: ±0.5°C
 - Automation Response Time: < 2 seconds
 - Solar Backup Duration: 8 hours under moderate sunlight
-
----
 
 ## 🔮 Future Improvements
 
@@ -85,15 +81,13 @@ Sensors collect real-time data → ESP8266 processes it → Displays on web page
 - IoT cloud integration
 - Water recycling module
 
----
 
 ## 📷 System Diagram
 
 (Refer to circuit_diagram folder)
 
----
 
 ## 👨‍💻 Author
 
-Shravan  
+SAROJA PATEL
 IoT & Embedded Systems Enthusiast  
