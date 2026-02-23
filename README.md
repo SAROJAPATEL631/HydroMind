@@ -90,4 +90,4 @@ Sensors collect real-time data → ESP8266 processes it → Displays on web page
 ## 👨‍💻 Author
 
 SAROJA PATEL
-IoT & Embedded Systems Enthusiast  
+
